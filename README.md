@@ -2,7 +2,7 @@
 
 The idea behind this project is to have a standalone clock circuit to debug ICs at a very low clock speed.
 
-It is mainly inspired by [Ben Eater`s](https://eater.net/8bit/clock "Ben Eater`s") version.
+It is mainly inspired by [Ben Eater's](https://eater.net/8bit/clock) version.
 
 
 ### Features
