@@ -35,4 +35,13 @@ It is mainly inspired by [Ben Eater's](https://eater.net/8bit/clock) version.
 ### Todo
 [ ] Get a 5vpp output instead of a 3vpp
 [ ] Add partslist
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
 
