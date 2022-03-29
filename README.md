@@ -9,7 +9,7 @@ It is mainly inspired by [Ben Eater's](https://eater.net/8bit/clock) version.
 - Manual pulse Mode.
 - Variable frequency clock.
 - DC Input Jack 7v - 15v @ approx. 100mA.
-- Raw 5v power in for easy breadboard use.
+- Raw 5v power in for breadboard compatability.
 
 
 ### Todo
