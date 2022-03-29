@@ -4,16 +4,19 @@ The idea behind this project is to have a standalone clock circuit to debug ICs 
 
 It is mainly inspired by [Ben Eater's](https://eater.net/8bit/clock) version.
 
-### Notes
-This projects was made using the nightly build of KiCad
+
+### Note
+This projects was made using the nightly build of KiCad.
+
 **Version: (6.99.0-1487-g4c225cff5b), release build**
 
-
+ 
 ### Features
 - Manual pulse Mode.
 - Variable frequency clock.
 - DC Input Jack 7v - 15v @ approx. 100mA.
 - Raw 5v power in for breadboard compatability.
+
 
 ### Parts
 - 2x 0.01uF - Ceramic Capacitor
