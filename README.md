@@ -33,6 +33,7 @@ It is mainly inspired by [Ben Eater's](https://eater.net/8bit/clock) version.
 
 
 ### Todo
-- [ ] Get a 5vpp output instead of a 3vpp
-- [ ] Add partslist
+- [ ] Use CMOS ICs for a 5vpp output
+- [x] Add partslist
+- [ ] Add photos
 
