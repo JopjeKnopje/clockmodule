@@ -6,7 +6,7 @@ It is mainly inspired by [Ben Eater's](https://eater.net/8bit/clock) version.
 
 
 
-![alt text](https://github.com/JopjeKnopje/clockmodule/tree/main/pics/3dboard.png?raw=true)
+![alt text](https://raw.githubusercontent.com/JopjeKnopje/clockmodule/main/pics/3dboard.png?raw=true)
 
 
 
