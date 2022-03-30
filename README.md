@@ -6,7 +6,7 @@ It is mainly inspired by [Ben Eater's](https://eater.net/8bit/clock) version.
 
 
 
-![alt text](https://raw.githubusercontent.com/JopjeKnopje/clockmodule/main/pics/3dboard.png?raw=true)
+
 
 
 
@@ -45,8 +45,16 @@ This projects was made using the nightly build of KiCad.
 - 1x 7400
 
 
+
+### What does it look like
+#### KiCad Render
+![alt text](https://raw.githubusercontent.com/JopjeKnopje/clockmodule/main/pics/3dboard.png?raw=true)
+
+
 ### Todo
 - [ ] Use CMOS ICs for a 5vpp output
 - [x] Add partslist
 - [ ] Add photos
+
+
 
