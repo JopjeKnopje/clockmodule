@@ -5,6 +5,12 @@ The idea behind this project is to have a standalone clock circuit to debug ICs 
 It is mainly inspired by [Ben Eater's](https://eater.net/8bit/clock) version.
 
 
+
+![alt text](https://github.com/JopjeKnopje/clockmodule/tree/main/pics/3dboard.png?raw=true)
+
+
+
+
 ### Note
 This projects was made using the nightly build of KiCad.
 
