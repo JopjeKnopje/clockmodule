@@ -19,6 +19,7 @@ This projects was made using the nightly build of KiCad.
 - Variable frequency clock.
 - DC Input Jack 7v - 15v @ approx. 100mA.
 - Raw 5v power in for breadboard compatability.
+- Lots of LEDs :)
 
 
 ### Parts
@@ -52,4 +53,7 @@ This projects was made using the nightly build of KiCad.
 - [ ] Use CMOS ICs for a 5vpp output
 - [x] Add partslist
 - [ ] Add photos
+- [ ] swap silkscreen c3 and c4 position
+- [ ] c8 different footprint
+- [ ] remove jclpcb mark
 
