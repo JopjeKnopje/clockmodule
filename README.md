@@ -53,7 +53,7 @@ This projects was made using the nightly build of KiCad.
 - [ ] Use CMOS ICs for a 5vpp output
 - [x] Add partslist
 - [ ] Add photos
-- [ ] swap silkscreen c3 and c4 position
-- [ ] c8 different footprint
-- [ ] remove jclpcb mark
+- [ ] Swap silkscreen position of c3 and c4 
+- [ ] Different footprint for c8
+- [ ] Remove jclpcb mark
 
