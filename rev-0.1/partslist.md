@@ -1,0 +1,20 @@
+- 2x 0.01uF, C
+- 2x 4.7uF, C_Polarized
+- 1x 470, C_Polarized
+- 1x .33uF, C
+- 4x .1uF, C
+- 1x 1uF, C_Polarized
+- 1x 1N4007, D
+- 4x LED, LED
+- 4x MountingHole, MountingHole
+- 1x Vin, Conn_01x02_Female
+- 1x Clock output, Conn_01x02_Female
+- 1x DC Input, Barrel_Jack_Switch
+- 6x 1K, R
+- 2x 51K, R
+- 2x 10K, R
+- 1x 100K, R_Potentiometer
+- 2x SW_Push, SW_Push
+- 3x NE555P, NE555P
+- 1x L7805_J, L7805_J
+- 1x 7400, 7400
