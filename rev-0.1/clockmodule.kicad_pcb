@@ -4010,7 +4010,7 @@
 		(descr "CP, Radial series, Radial, pin pitch=2.50mm, , diameter=6.3mm, Electrolytic Capacitor")
 		(tags "CP Radial series Radial pin pitch 2.50mm  diameter 6.3mm Electrolytic Capacitor")
 		(property "Reference" "C3"
-			(at 5.22 -5.02 0)
+			(at 5.72 0.13 0)
 			(layer "F.SilkS")
 			(uuid "699dcc90-dfaa-4308-9e1a-66e1dcc0c299")
 			(effects
@@ -10676,7 +10676,7 @@
 		(descr "C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.0*1.6mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf")
 		(tags "C Disc series Radial pin pitch 2.50mm  diameter 3.0mm width 1.6mm Capacitor")
 		(property "Reference" "C4"
-			(at -2.93 -5.06 0)
+			(at -2.78 -0.01 0)
 			(layer "F.SilkS")
 			(uuid "8f3df707-d4a3-4e72-9c68-c594096238bd")
 			(effects
