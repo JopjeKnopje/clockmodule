@@ -6,13 +6,6 @@ The idea behind this project is to have a standalone clock circuit to debug ICs 
 It is mainly inspired by [Ben Eater's](https://eater.net/8bit/clock) version.
 
 
-
-
-### Note
-This projects was made using the nightly build of KiCad.
-
-**Version: (6.99.0-1487-g4c225cff5b), release build**
-
  
 ### Features
 - Manual pulse Mode.
@@ -53,7 +46,6 @@ This projects was made using the nightly build of KiCad.
 - [ ] Use CMOS ICs for a 5vpp output
 - [x] Add partslist
 - [ ] Add photos
-- [ ] Swap silkscreen position of c3 and c4 
-- [ ] Different footprint for c8
-- [ ] Remove jclpcb mark
+- [x] Swap silkscreen position of c3 and c4 
+- [x] Different footprint for c8
 
